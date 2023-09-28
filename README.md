@@ -1,3 +1,4 @@
-# TetrisGame
+# Tetris Clone
 
-This is clone of the Tetris game written in python. Pygame is is required to open and run the code.
+This is a simple Tetris game clone written in Python using the Pygame library. It replicates the classic Tetris gameplay, allowing players to move, rotate, and drop Tetriminos while trying 
+to clear lines and achieve a high score.
